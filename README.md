@@ -1,4 +1,4 @@
-<h1>Building a sub 250 gram FPV drone.</h1>
+<h1>AWS US East 1 Outage  Solution and Strategies</h1>
 
  ### [AWS US East 1 Outage Solution and Stategies Slides](https://docs.google.com/presentation/d/1pPyosGqXOrfR8eB4pXksa41l_62BZLtu75_sHdrbi8g/edit?usp=sharing)
 
